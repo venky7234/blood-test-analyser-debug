@@ -8,7 +8,7 @@ A FastAPI-based application that uses AI agents to analyze blood test reports an
 - **AI-Powered Medical Insights**: Get detailed analysis of blood test results using AI agents
 - **Nutritional Recommendations**: Receive personalized nutrition advice based on blood test results
 - **Exercise Planning**: Get safe and effective exercise recommendations
-- **Professional Medical Analysis**: Evidence-based recommendations from specialized AI agents
+- **Professional Medical Analysis**: Evidence-based recommendations from specialized AI agents.
 
 ## Prerequisites
 
