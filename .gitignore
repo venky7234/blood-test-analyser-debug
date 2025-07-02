@@ -1,0 +1,17 @@
+# Ignore Python virtual environments
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore logs and system files
+*.log
+*.sqlite3
+*.db
+
+# Ignore environment variables
+.env
+
+# Ignore uploaded data files (e.g. PDF reports)
+data/*.pdf
